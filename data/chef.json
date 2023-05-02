@@ -1,34 +1,50 @@
 [
     {
-        "id": "0",
-        "name": "All News"
+        "id": "chf01",
+        "name": "Alain Ducasse",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "experience": "4 years", 
+        "recipes": "5",
+        "rating": { "number": 4.5, "badge": "Excellent" }
     },
     {
-        "id": "1",
-        "name": "Breaking News"
+        "id": "chf01",
+        "name": "Alain Ducasse",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "experience": "4 years", 
+        "recipes": "5",
+        "rating": { "number": 4.5, "badge": "Excellent" }
     },
     {
-        "id": "2",
-        "name": "Regular News"
+        "id": "chf01",
+        "name": "Paul Bocuse",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "experience": "4 years", 
+        "recipes": "5",
+        "rating": { "number": 4.5, "badge": "Excellent" }
     },
     {
-        "id": "3",
-        "name": "International News"
+        "id": "chf01",
+        "name": "Anne-Sophie Pic",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "experience": "4 years", 
+        "recipes": "5",
+        "rating": { "number": 4.5, "badge": "Excellent" }
     },
     {
-        "id": "4",
-        "name": "Sports"
+        "id": "chf01",
+        "name": "Anne-Sophie Pic ",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "experience": "4 years", 
+        "recipes": "5",
+        "rating": { "number": 4.5, "badge": "Excellent" }
     },
     {
-        "id": "5",
-        "name": "Entertainment"
-    },
-    {
-        "id": "6",
-        "name": "Culture"
-    },
-    {
-        "id": "7",
-        "name": "Arts"
+        "id": "chf01",
+        "name": "Guy Savoy",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "experience": "4 years", 
+        "recipes": "5",
+        "rating": { "number": 4.5, "badge": "Excellent" }
     }
 ]
