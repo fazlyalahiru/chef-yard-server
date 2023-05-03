@@ -1,0 +1,133 @@
+[
+    {
+        "id": "chf01",
+        "name": "Alain Ducasse",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "description": "Alain Ducasse is a French-born Monégasque chef. He operates a number of restaurants including Alain Ducasse at The Dorchester which holds three stars (the top rating) in the Michelin Guide",
+        "likes": 1000,
+        "experierecipesnce": "4 years",
+        "recipes": [
+            {
+                "name": "Alain Ducasse",
+                "ingradient": [
+                    "Fish and shellfish such as red mullet, gurnard, sea bream, and prawns",
+                    "Vegetables such as onion, leek, fennel, and tomato",
+                    "Aromatics such as garlic, thyme, bay leaf, and orange peel",
+                    "Fish stock and white wine",
+                    "Rouille made with garlic, egg yolks, breadcrumbs, and olive oil"
+                ],
+                "cookingMethod": "To make Soupe de poissons according to Alain Ducasse's recipe, you would first clean and prepare the fish and shellfish, removing the heads, bones, and shells. In a large pot or Dutch oven, you would sauté chopped onion, leek, and fennel in olive oil until softened, then add garlic, tomato, thyme, bay leaf, and orange peel and cook for another few minutes. Next, you would add fish stock and white wine to the pot and bring to a simmer. Finally, you would add the fish and shellfish to the pot and cook until done. The soup is traditionally served with rouille, a garlicky mayonnaise-like condiment.",
+                "rating": 4.5
+            }
+        ]
+    },
+    {
+        "id": "chf02",
+        "name": "Alain Ducasse",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "likes": 1000,
+        "experience": "4 years",
+        "recipes": [
+            {
+                "name": "Alain Ducasse",
+                "ingradient": [
+                    "Fish and shellfish such as red mullet, gurnard, sea bream, and prawns",
+                    "Vegetables such as onion, leek, fennel, and tomato",
+                    "Aromatics such as garlic, thyme, bay leaf, and orange peel",
+                    "Fish stock and white wine",
+                    "Rouille made with garlic, egg yolks, breadcrumbs, and olive oil"
+                ],
+                "cookingMethod": "To make Soupe de poissons according to Alain Ducasse's recipe, you would first clean and prepare the fish and shellfish, removing the heads, bones, and shells. In a large pot or Dutch oven, you would sauté chopped onion, leek, and fennel in olive oil until softened, then add garlic, tomato, thyme, bay leaf, and orange peel and cook for another few minutes. Next, you would add fish stock and white wine to the pot and bring to a simmer. Finally, you would add the fish and shellfish to the pot and cook until done. The soup is traditionally served with rouille, a garlicky mayonnaise-like condiment.",
+                "rating": 4.5
+            }
+        ]
+    },
+    {
+        "id": "chf03",
+        "name": "Alain Ducasse",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "likes": 1000,
+        
+        "experience": "4 years",
+        "recipes": [
+            {
+                "name": "Alain Ducasse",
+                "ingradient": [
+                    "Fish and shellfish such as red mullet, gurnard, sea bream, and prawns",
+                    "Vegetables such as onion, leek, fennel, and tomato",
+                    "Aromatics such as garlic, thyme, bay leaf, and orange peel",
+                    "Fish stock and white wine",
+                    "Rouille made with garlic, egg yolks, breadcrumbs, and olive oil"
+                ],
+                "cookingMethod": "To make Soupe de poissons according to Alain Ducasse's recipe, you would first clean and prepare the fish and shellfish, removing the heads, bones, and shells. In a large pot or Dutch oven, you would sauté chopped onion, leek, and fennel in olive oil until softened, then add garlic, tomato, thyme, bay leaf, and orange peel and cook for another few minutes. Next, you would add fish stock and white wine to the pot and bring to a simmer. Finally, you would add the fish and shellfish to the pot and cook until done. The soup is traditionally served with rouille, a garlicky mayonnaise-like condiment.",
+                "rating": 4.5
+            }
+        ]
+    },
+    {
+        "id": "chf04",
+        "name": "Alain Ducasse",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "likes": 1000,
+        
+        "experience": "4 years",
+        "recipes": [
+            {
+                "name": "Alain Ducasse",
+                "ingradient": [
+                    "Fish and shellfish such as red mullet, gurnard, sea bream, and prawns",
+                    "Vegetables such as onion, leek, fennel, and tomato",
+                    "Aromatics such as garlic, thyme, bay leaf, and orange peel",
+                    "Fish stock and white wine",
+                    "Rouille made with garlic, egg yolks, breadcrumbs, and olive oil"
+                ],
+                "cookingMethod": "To make Soupe de poissons according to Alain Ducasse's recipe, you would first clean and prepare the fish and shellfish, removing the heads, bones, and shells. In a large pot or Dutch oven, you would sauté chopped onion, leek, and fennel in olive oil until softened, then add garlic, tomato, thyme, bay leaf, and orange peel and cook for another few minutes. Next, you would add fish stock and white wine to the pot and bring to a simmer. Finally, you would add the fish and shellfish to the pot and cook until done. The soup is traditionally served with rouille, a garlicky mayonnaise-like condiment.",
+                "rating": 4.5
+            }
+        ]
+    },
+    {
+        "id": "chf05",
+        "name": "Alain Ducasse",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "likes": 1000,
+        
+        "experience": "4 years",
+        "recipes": [
+            {
+                "name": "Alain Ducasse",
+                "ingradient": [
+                    "Fish and shellfish such as red mullet, gurnard, sea bream, and prawns",
+                    "Vegetables such as onion, leek, fennel, and tomato",
+                    "Aromatics such as garlic, thyme, bay leaf, and orange peel",
+                    "Fish stock and white wine",
+                    "Rouille made with garlic, egg yolks, breadcrumbs, and olive oil"
+                ],
+                "cookingMethod": "To make Soupe de poissons according to Alain Ducasse's recipe, you would first clean and prepare the fish and shellfish, removing the heads, bones, and shells. In a large pot or Dutch oven, you would sauté chopped onion, leek, and fennel in olive oil until softened, then add garlic, tomato, thyme, bay leaf, and orange peel and cook for another few minutes. Next, you would add fish stock and white wine to the pot and bring to a simmer. Finally, you would add the fish and shellfish to the pot and cook until done. The soup is traditionally served with rouille, a garlicky mayonnaise-like condiment.",
+                "rating": 4.5
+            }
+        ]
+    },
+    {
+        "id": "chf06",
+        "name": "Alain Ducasse",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "likes": 1000,
+        
+        "experience": "4 years",
+        "recipes": [
+            {
+                "name": "Alain Ducasse",
+                "ingradient": [
+                    "Fish and shellfish such as red mullet, gurnard, sea bream, and prawns",
+                    "Vegetables such as onion, leek, fennel, and tomato",
+                    "Aromatics such as garlic, thyme, bay leaf, and orange peel",
+                    "Fish stock and white wine",
+                    "Rouille made with garlic, egg yolks, breadcrumbs, and olive oil"
+                ],
+                "cookingMethod": "To make Soupe de poissons according to Alain Ducasse's recipe, you would first clean and prepare the fish and shellfish, removing the heads, bones, and shells. In a large pot or Dutch oven, you would sauté chopped onion, leek, and fennel in olive oil until softened, then add garlic, tomato, thyme, bay leaf, and orange peel and cook for another few minutes. Next, you would add fish stock and white wine to the pot and bring to a simmer. Finally, you would add the fish and shellfish to the pot and cook until done. The soup is traditionally served with rouille, a garlicky mayonnaise-like condiment.",
+                "rating": 4.5
+            }
+        ]
+    }
+]
