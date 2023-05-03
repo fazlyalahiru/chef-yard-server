@@ -2,131 +2,297 @@
     {
         "id": "chf01",
         "name": "Alain Ducasse",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
-        "description": "Alain Ducasse is a French-born Monégasque chef. He operates a number of restaurants including Alain Ducasse at The Dorchester which holds three stars (the top rating) in the Michelin Guide",
+        "description" : "Alain Ducasse is a French-born Monégasque chef. He operates a number of restaurants including Alain Ducasse at The Dorchester which holds three stars in the Michelin Guide.",
+        "img": "https://i.ibb.co/TvLBtMr/cf1.png",
         "likes": 1000,
-        "experierecipesnce": "4 years",
+        "experience": "15 years",
         "recipes": [
             {
-                "name": "Alain Ducasse",
+                "name": "Ratatouille",
+                "recipe_img": "https://i.ibb.co/1sv5gRw/chf1-recipe-1.png",
                 "ingradient": [
-                    "Fish and shellfish such as red mullet, gurnard, sea bream, and prawns",
-                    "Vegetables such as onion, leek, fennel, and tomato",
-                    "Aromatics such as garlic, thyme, bay leaf, and orange peel",
-                    "Fish stock and white wine",
-                    "Rouille made with garlic, egg yolks, breadcrumbs, and olive oil"
+                    "2 medium onions",
+                    "2 red bell peppers",
+                    "2 red bell peppers",
+                    "2 zucchinis",
+                    "2 zucchinis"
                 ],
-                "cookingMethod": "To make Soupe de poissons according to Alain Ducasse's recipe, you would first clean and prepare the fish and shellfish, removing the heads, bones, and shells. In a large pot or Dutch oven, you would sauté chopped onion, leek, and fennel in olive oil until softened, then add garlic, tomato, thyme, bay leaf, and orange peel and cook for another few minutes. Next, you would add fish stock and white wine to the pot and bring to a simmer. Finally, you would add the fish and shellfish to the pot and cook until done. The soup is traditionally served with rouille, a garlicky mayonnaise-like condiment.",
+                "cookingMethod": "To make ratatouille, chop onions, bell peppers, zucchinis, eggplants, and tomatoes into small pieces and cook them with garlic and olive oil in a large saucepan. Add thyme and season with salt and pepper to taste. Cook the vegetables until they are tender and the sauce has thickened. Serve hot or cold with crusty bread.",
                 "rating": 4.5
+            },
+            {
+                "name": "Seared Scallops",
+                "recipe_img": "https://i.ibb.co/Lt7dcD7/ch1-recipe-2.png",
+                "ingradient": [
+                    "12 large sea scallops, cleaned",
+                    "Salt and freshly ground black pepper",
+                    "1/4 cup all-purpose flour",
+                    "2 tablespoons unsalted butter",
+                    "Juice of 1 lemon"
+                ],
+                "cookingMethod": "To make Seared Scallops with Lemon Butter, chop onions, bell peppers, zucchinis, eggplants, and tomatoes into small pieces and cook them with garlic and olive oil in a large saucepan. Add thyme and season with salt and pepper to taste. Cook the vegetables until they are tender and the sauce has thickened. Serve hot or cold with crusty bread.",
+                "rating": 3.8
+            },
+            {
+                "name": "Chocolate Mousse",
+                "recipe_img": "https://i.ibb.co/Kh6RWFy/ch1-recipe-3.png",
+                "ingradient": [
+                    "8 ounces bittersweet chocolate, chopped",
+                    "4 large eggs, separated",
+                    "1/4 cup granulated sugar",
+                    "1/4 cup heavy cream",
+                    "Pinch of salt"
+                ],
+                "cookingMethod": "To make Chocolate Mousse, chop onions, bell peppers, zucchinis, eggplants, and tomatoes into small pieces and cook them with garlic and olive oil in a large saucepan. Add thyme and season with salt and pepper to taste. Cook the vegetables until they are tender and the sauce has thickened. Serve hot or cold with crusty bread.",
+                "rating": 4.8
             }
         ]
     },
     {
         "id": "chf02",
-        "name": "Alain Ducasse",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
-        "likes": 1000,
-        "experience": "4 years",
+        "name": "Joël Robuchon",
+        "description" : "Joël Robuchon was a French chef and restaurateur. He was named 'Chef of the Century' by the guide Gault Millau in 1989, and awarded the Meilleur Ouvrier de France in cuisine in 1976. ",
+        "img": "https://i.ibb.co/Wpp0QRt/chf2.png",
+        "likes": 1200,
+        "experience": "10 years",
         "recipes": [
             {
-                "name": "Alain Ducasse",
+                "name": "Pommes Purée",
+                "recipe_img": "https://i.ibb.co/vwNY34B/ch2-recipe-1.png",
                 "ingradient": [
-                    "Fish and shellfish such as red mullet, gurnard, sea bream, and prawns",
-                    "Vegetables such as onion, leek, fennel, and tomato",
-                    "Aromatics such as garlic, thyme, bay leaf, and orange peel",
-                    "Fish stock and white wine",
-                    "Rouille made with garlic, egg yolks, breadcrumbs, and olive oil"
+                    "2 lbs. Russet potatoes",
+                    "1 lb. unsalted butter, cubed",
+                    "2 cups whole milk",
+                    "2 cups whole milk",
+                    "Hot water"
                 ],
-                "cookingMethod": "To make Soupe de poissons according to Alain Ducasse's recipe, you would first clean and prepare the fish and shellfish, removing the heads, bones, and shells. In a large pot or Dutch oven, you would sauté chopped onion, leek, and fennel in olive oil until softened, then add garlic, tomato, thyme, bay leaf, and orange peel and cook for another few minutes. Next, you would add fish stock and white wine to the pot and bring to a simmer. Finally, you would add the fish and shellfish to the pot and cook until done. The soup is traditionally served with rouille, a garlicky mayonnaise-like condiment.",
-                "rating": 4.5
+                "cookingMethod": "To make Pommes Purée, chop onions, bell peppers, zucchinis, eggplants, and tomatoes into small pieces and cook them with garlic and olive oil in a large saucepan. Add thyme and season with salt and pepper to taste. Cook the vegetables until they are tender and the sauce has thickened. Serve hot or cold with crusty bread.",
+                "rating": 3.5
+            },
+            {
+                "name": "Grilled Lamb Chops",
+                "recipe_img": " https://i.ibb.co/0qrtHb1/ch2-recipe-2.png",
+                "ingradient": [
+                    "8 lamb chops",
+                    "1/4 cup olive oil",
+                    "1/4 cup fresh rosemary, chopped",
+                    "Salt and pepper",
+                    "Water"
+                ],
+                "cookingMethod": "To make Grilled Lamb Chops, chop onions, bell peppers, zucchinis, eggplants, and tomatoes into small pieces and cook them with garlic and olive oil in a large saucepan. Add thyme and season with salt and pepper to taste. Cook the vegetables until they are tender and the sauce has thickened. Serve hot or cold with crusty bread.",
+                "rating": 4.8
+            },
+            {
+                "name": "Chocolate Tart",
+                "recipe_img": " https://i.ibb.co/3YQZ9CN/ch2-recipe-3.png",
+                "ingradient": [
+                    "Chocolate",
+                    "1/4 cup olive oil",
+                    "1/4 cup fresh rosemary, chopped",
+                    "Salt and pepper",
+                    "Water"
+                ],
+                "cookingMethod": "To make Grilled Lamb Chops, chop onions, bell peppers, zucchinis, eggplants, and tomatoes into small pieces and cook them with garlic and olive oil in a large saucepan. Add thyme and season with salt and pepper to taste. Cook the vegetables until they are tender and the sauce has thickened. Serve hot or cold with crusty bread.",
+                "rating": 4.2
             }
         ]
     },
     {
         "id": "chf03",
-        "name": "Alain Ducasse",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
-        "likes": 1000,
+        "name": "Paul Bocuse",
+        "img": "https://i.ibb.co/jZsjJcv/chef-3.png",
+        "likes": 900,
         
-        "experience": "4 years",
+        "experience": "14 years",
         "recipes": [
             {
-                "name": "Alain Ducasse",
+                "name": "Coq Au Vin",
+                "recipe_img": "https://i.ibb.co/8NXLR8v/ch3-recipe-1.png",
                 "ingradient": [
-                    "Fish and shellfish such as red mullet, gurnard, sea bream, and prawns",
-                    "Vegetables such as onion, leek, fennel, and tomato",
-                    "Aromatics such as garlic, thyme, bay leaf, and orange peel",
-                    "Fish stock and white wine",
-                    "Rouille made with garlic, egg yolks, breadcrumbs, and olive oil"
+                    "8 lamb chops",
+                    "1/4 cup olive oil",
+                    "1/4 cup fresh rosemary, chopped",
+                    "Salt and pepper",
+                    "Water"
                 ],
-                "cookingMethod": "To make Soupe de poissons according to Alain Ducasse's recipe, you would first clean and prepare the fish and shellfish, removing the heads, bones, and shells. In a large pot or Dutch oven, you would sauté chopped onion, leek, and fennel in olive oil until softened, then add garlic, tomato, thyme, bay leaf, and orange peel and cook for another few minutes. Next, you would add fish stock and white wine to the pot and bring to a simmer. Finally, you would add the fish and shellfish to the pot and cook until done. The soup is traditionally served with rouille, a garlicky mayonnaise-like condiment.",
-                "rating": 4.5
+                "cookingMethod": "To make Coq Au Vin, you would first clean and prepare the fish and shellfish, removing the heads, bones, and shells. In a large pot or Dutch oven, you would sauté chopped onion, leek, and fennel in olive oil until softened, then add garlic, tomato, thyme, bay leaf, and orange peel and cook for another few minutes. Next, you would add fish stock and white wine to the pot and bring to a simmer. Finally, you would add the fish and shellfish to the pot and cook until done. The soup is traditionally served with rouille, a garlicky mayonnaise-like condiment.",
+                "rating": 4.9
+            },
+            {
+                "name": "Quenelles de Brochet",
+                "recipe_img": "https://i.ibb.co/fSjy00z/cf3-recipe2.png",
+                "ingradient": [
+                    "8 lamb chops",
+                    "1/4 cup olive oil",
+                    "1/4 cup fresh rosemary, chopped",
+                    "Salt and pepper",
+                    "Water"
+                ],
+                "cookingMethod": "To make Coq Au Vin, you would first clean and prepare the fish and shellfish, removing the heads, bones, and shells. In a large pot or Dutch oven, you would sauté chopped onion, leek, and fennel in olive oil until softened, then add garlic, tomato, thyme, bay leaf, and orange peel and cook for another few minutes. Next, you would add fish stock and white wine to the pot and bring to a simmer. Finally, you would add the fish and shellfish to the pot and cook until done. The soup is traditionally served with rouille, a garlicky mayonnaise-like condiment.",
+                "rating": 4.3
+            },
+            {
+                "name": "Soupe Aux Truffes V.G.E.",
+                "recipe_img": "https://i.ibb.co/F0WG6Vq/cf3-recipe-3.png",
+                "ingradient": [
+                    "8 lamb chops",
+                    "1/4 cup olive oil",
+                    "1/4 cup fresh rosemary, chopped",
+                    "Salt and pepper",
+                    "Water"
+                ],
+                "cookingMethod": "To make Soupe Aux Truffes V.G.E., you would first clean and prepare the fish and shellfish, removing the heads, bones, and shells. In a large pot or Dutch oven, you would sauté chopped onion, leek, and fennel in olive oil until softened, then add garlic, tomato, thyme, bay leaf, and orange peel and cook for another few minutes. Next, you would add fish stock and white wine to the pot and bring to a simmer. Finally, you would add the fish and shellfish to the pot and cook until done. The soup is traditionally served with rouille, a garlicky mayonnaise-like condiment.",
+                "rating": 4.7
             }
         ]
     },
     {
         "id": "chf04",
-        "name": "Alain Ducasse",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
-        "likes": 1000,
+        "name": "Anne-Sophie Pic",
+        "description": "Anne-Sophie Pic is a French chef best known for regaining three Michelin stars for her restaurant, Maison Pic, in southeast France. She is the fourth female chef to win three Michelin stars, and was named the Best Female Chef by The World's 50 Best Restaurants in 2011.",
+        "img": "https://i.ibb.co/z7WQf9Z/chef-4.png",
+        "likes": 2000,
         
-        "experience": "4 years",
+        "experience": "9 years",
         "recipes": [
             {
-                "name": "Alain Ducasse",
+                "name": "Berlingots by Anne-Sophie Pic",
+                "recipe_img": "https://i.ibb.co/nnhdRJ6/chef-4-recipe-1.png",
                 "ingradient": [
-                    "Fish and shellfish such as red mullet, gurnard, sea bream, and prawns",
-                    "Vegetables such as onion, leek, fennel, and tomato",
-                    "Aromatics such as garlic, thyme, bay leaf, and orange peel",
-                    "Fish stock and white wine",
-                    "Rouille made with garlic, egg yolks, breadcrumbs, and olive oil"
+                    "8 lamb chops",
+                    "1/4 cup olive oil",
+                    "1/4 cup fresh rosemary, chopped",
+                    "Salt and pepper",
+                    "Water"
                 ],
-                "cookingMethod": "To make Soupe de poissons according to Alain Ducasse's recipe, you would first clean and prepare the fish and shellfish, removing the heads, bones, and shells. In a large pot or Dutch oven, you would sauté chopped onion, leek, and fennel in olive oil until softened, then add garlic, tomato, thyme, bay leaf, and orange peel and cook for another few minutes. Next, you would add fish stock and white wine to the pot and bring to a simmer. Finally, you would add the fish and shellfish to the pot and cook until done. The soup is traditionally served with rouille, a garlicky mayonnaise-like condiment.",
+                "cookingMethod": "To make Soupe Aux Truffes V.G.E., you would first clean and prepare the fish and shellfish, removing the heads, bones, and shells. In a large pot or Dutch oven, you would sauté chopped onion, leek, and fennel in olive oil until softened, then add garlic, tomato, thyme, bay leaf, and orange peel and cook for another few minutes. Next, you would add fish stock and white wine to the pot and bring to a simmer. Finally, you would add the fish and shellfish to the pot and cook until done. The soup is traditionally served with rouille, a garlicky mayonnaise-like condiment.",
+                "rating": 4.4
+            },
+            {
+                "name": "Scallop Carpaccio",
+                "recipe_img": "https://i.ibb.co/YcPJGTP/chf4-recipe-2.png",
+                "ingradient": [
+                    "8 lamb chops",
+                    "1/4 cup olive oil",
+                    "1/4 cup fresh rosemary, chopped",
+                    "Salt and pepper",
+                    "Water"
+                ],
+                "cookingMethod": "To make Soupe  Scallop Carpaccio, you would first clean and prepare the fish and shellfish, removing the heads, bones, and shells. In a large pot or Dutch oven, you would sauté chopped onion, leek, and fennel in olive oil until softened, then add garlic, tomato, thyme, bay leaf, and orange peel and cook for another few minutes. Next, you would add fish stock and white wine to the pot and bring to a simmer. Finally, you would add the fish and shellfish to the pot and cook until done. The soup is traditionally served with rouille, a garlicky mayonnaise-like condiment.",
                 "rating": 4.5
+            },
+            {
+                "name": "Blue Lobster with Lemongrass and Coconut",
+                "recipe_img": "https://i.ibb.co/12b0YK1/chef4-recipe3.png",
+                "ingradient": [
+                    "8 lamb chops",
+                    "1/4 cup olive oil",
+                    "1/4 cup fresh rosemary, chopped",
+                    "Salt and pepper",
+                    "Water"
+                ],
+                "cookingMethod": "To make Blue Lobster with Lemongrass and Coconut, you would first clean and prepare the fish and shellfish, removing the heads, bones, and shells. In a large pot or Dutch oven, you would sauté chopped onion, leek, and fennel in olive oil until softened, then add garlic, tomato, thyme, bay leaf, and orange peel and cook for another few minutes. Next, you would add fish stock and white wine to the pot and bring to a simmer. Finally, you would add the fish and shellfish to the pot and cook until done. ",
+                "rating": 4.7
             }
         ]
     },
     {
         "id": "chf05",
-        "name": "Alain Ducasse",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
-        "likes": 1000,
+        "name": "Éric Ripert",
+        "description": "Eric Frank Ripert is a French chef, author, and television personality specializing in modern French cuisine and noted for his work with seafood.",
+        "img": "https://i.ibb.co/cx6BQRq/chef-4.png",
+        "likes": 1400,
         
-        "experience": "4 years",
+        "experience": "12 years",
         "recipes": [
             {
-                "name": "Alain Ducasse",
+                "name": "Lobster Cappuccino",
+                "recipe_img": "https://i.ibb.co/9nKqnpf/chef5-recipe1.png",
                 "ingradient": [
-                    "Fish and shellfish such as red mullet, gurnard, sea bream, and prawns",
-                    "Vegetables such as onion, leek, fennel, and tomato",
-                    "Aromatics such as garlic, thyme, bay leaf, and orange peel",
-                    "Fish stock and white wine",
-                    "Rouille made with garlic, egg yolks, breadcrumbs, and olive oil"
+                    "8 lamb chops",
+                    "1/4 cup olive oil",
+                    "1/4 cup fresh rosemary, chopped",
+                    "Salt and pepper",
+                    "Water"
                 ],
-                "cookingMethod": "To make Soupe de poissons according to Alain Ducasse's recipe, you would first clean and prepare the fish and shellfish, removing the heads, bones, and shells. In a large pot or Dutch oven, you would sauté chopped onion, leek, and fennel in olive oil until softened, then add garlic, tomato, thyme, bay leaf, and orange peel and cook for another few minutes. Next, you would add fish stock and white wine to the pot and bring to a simmer. Finally, you would add the fish and shellfish to the pot and cook until done. The soup is traditionally served with rouille, a garlicky mayonnaise-like condiment.",
-                "rating": 4.5
+                "cookingMethod": "To make Lobster Cappuccino, you would first clean and prepare the fish and shellfish, removing the heads, bones, and shells. In a large pot or Dutch oven, you would sauté chopped onion, leek, and fennel in olive oil until softened, then add garlic, tomato, thyme, bay leaf, and orange peel and cook for another few minutes. Next, you would add fish stock and white wine to the pot and bring to a simmer. Finally, you would add the fish and shellfish to the pot and cook until done. ",
+                "rating": 4.2
+            },
+            {
+                "name": "Crispy-Skinned Salmon with Herb Vinaigrette",
+                "recipe_img": "https://i.ibb.co/2hQGT7v/chef5-recipe2.png",
+                "ingradient": [
+                    "8 lamb chops",
+                    "1/4 cup olive oil",
+                    "1/4 cup fresh rosemary, chopped",
+                    "Salt and pepper",
+                    "Water"
+                ],
+                "cookingMethod": "To make Crispy-Skinned Salmon with Herb Vinaigrette, you would first clean and prepare the fish and shellfish, removing the heads, bones, and shells. In a large pot or Dutch oven, you would sauté chopped onion, leek, and fennel in olive oil until softened, then add garlic, tomato, thyme, bay leaf, and orange peel and cook for another few minutes. Next, you would add fish stock and white wine to the pot and bring to a simmer. Finally, you would add the fish and shellfish to the pot and cook until done. ",
+                "rating": 4.8
+            },
+            {
+                "name": "Mushroom Bolognese with Pappardelle",
+                "recipe_img": "https://i.ibb.co/XFVnq9S/chef5-recipe3.png",
+                "ingradient": [
+                    "8 lamb chops",
+                    "1/4 cup olive oil",
+                    "1/4 cup fresh rosemary, chopped",
+                    "Salt and pepper",
+                    "Water"
+                ],
+                "cookingMethod": "To make Mushroom Bolognese with Pappardelle, you would first clean and prepare the fish and shellfish, removing the heads, bones, and shells. In a large pot or Dutch oven, you would sauté chopped onion, leek, and fennel in olive oil until softened, then add garlic, tomato, thyme, bay leaf, and orange peel and cook for another few minutes. Next, you would add fish stock and white wine to the pot and bring to a simmer. Finally, you would add the fish and shellfish to the pot and cook until done. ",
+                "rating": 3.1
             }
         ]
     },
     {
         "id": "chf06",
-        "name": "Alain Ducasse",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
-        "likes": 1000,
+        "name": "Guy Savoy",
+        "description":"Guy Savoy is a French chef who is the head chef and owner of the eponymous Guy Savoy restaurant in Paris and its sister restaurant in Las Vegas, both of which have gained multiple Michelin stars. He owns three other restaurants in Paris.",
+        "img": "https://i.ibb.co/rMmBC4c/chef-6.png",
+        "likes": 2100,
         
-        "experience": "4 years",
+        "experience": "21 years",
         "recipes": [
             {
-                "name": "Alain Ducasse",
+                "name": "Artichoke and Black Truffle Soup",
+                "recipe_img": "https://i.ibb.co/TH6Wt95/chef6-recipe1.png",
                 "ingradient": [
-                    "Fish and shellfish such as red mullet, gurnard, sea bream, and prawns",
-                    "Vegetables such as onion, leek, fennel, and tomato",
-                    "Aromatics such as garlic, thyme, bay leaf, and orange peel",
-                    "Fish stock and white wine",
-                    "Rouille made with garlic, egg yolks, breadcrumbs, and olive oil"
+                    "8 lamb chops",
+                    "1/4 cup olive oil",
+                    "1/4 cup fresh rosemary, chopped",
+                    "Salt and pepper",
+                    "Water"
                 ],
-                "cookingMethod": "To make Soupe de poissons according to Alain Ducasse's recipe, you would first clean and prepare the fish and shellfish, removing the heads, bones, and shells. In a large pot or Dutch oven, you would sauté chopped onion, leek, and fennel in olive oil until softened, then add garlic, tomato, thyme, bay leaf, and orange peel and cook for another few minutes. Next, you would add fish stock and white wine to the pot and bring to a simmer. Finally, you would add the fish and shellfish to the pot and cook until done. The soup is traditionally served with rouille, a garlicky mayonnaise-like condiment.",
-                "rating": 4.5
+                "cookingMethod": "To make Artichoke and Black Truffle Soup, you would first clean and prepare the fish and shellfish, removing the heads, bones, and shells. In a large pot or Dutch oven, you would sauté chopped onion, leek, and fennel in olive oil until softened, then add garlic, tomato, thyme, bay leaf, and orange peel and cook for another few minutes. Next, you would add fish stock and white wine to the pot and bring to a simmer. Finally, you would add the fish and shellfish to the pot and cook until done. ",
+                "rating": 4.1
+            },
+            {
+                "name": "Roast Duck with Honey and Spices ",
+                "recipe_img": "https://i.ibb.co/XFVnq9S/chef5-recipe3.png",
+                "ingradient": [
+                    "8 lamb chops",
+                    "1/4 cup olive oil",
+                    "1/4 cup fresh rosemary, chopped",
+                    "Salt and pepper",
+                    "Water"
+                ],
+                "cookingMethod": "To make Roast Duck with Honey and Spices , you would first clean and prepare the fish and shellfish, removing the heads, bones, and shells. In a large pot or Dutch oven, you would sauté chopped onion, leek, and fennel in olive oil until softened, then add garlic, tomato, thyme, bay leaf, and orange peel and cook for another few minutes. Next, you would add fish stock and white wine to the pot and bring to a simmer. Finally, you would add the fish and shellfish to the pot and cook until done. ",
+                "rating": 3.1
+            },
+            {
+                "name": "Roast Duck with Honey and Spices ",
+                "recipe_img": "https://i.ibb.co/zJQ4q2V/chef6-recipe2.png",
+                "ingradient": [
+                    "8 lamb chops",
+                    "1/4 cup olive oil",
+                    "1/4 cup fresh rosemary, chopped",
+                    "Salt and pepper",
+                    "Water"
+                ],
+                "cookingMethod": "To make Roast Duck with Honey and Spices , you would first clean and prepare the fish and shellfish, removing the heads, bones, and shells. In a large pot or Dutch oven, you would sauté chopped onion, leek, and fennel in olive oil until softened, then add garlic, tomato, thyme, bay leaf, and orange peel and cook for another few minutes. Next, you would add fish stock and white wine to the pot and bring to a simmer. Finally, you would add the fish and shellfish to the pot and cook until done. ",
+                "rating": 3.1
             }
         ]
     }
